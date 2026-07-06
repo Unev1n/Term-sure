@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Term Sure Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 🛡️ Term Sure
